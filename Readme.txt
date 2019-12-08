@@ -1,3 +1,7 @@
 # This is my first line from Visual studio to Git
 
-Hello world !!
+My New hello to the world!!!
+
+Some trash line to be deleted
+
+Meaningful line.
